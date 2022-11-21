@@ -1,5 +1,5 @@
-import Body from './components/Body Section/Body'
-import Sidebar from './components/Sidebar section/Sidebar'
+import Body from './components/Body'
+import Sidebar from './components/Sidebar'
 import './App.css'
 
 function App() {
